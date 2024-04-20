@@ -1,0 +1,1 @@
+test;src;C:\Users\USUARIO\.m2\repository\org\clojure\clojure\1.0.0\clojure-1.0.0.jar;C:\Users\USUARIO\.m2\repository\org\clojure\data.json\1.0.0\data.json-1.0.0.jar
